@@ -4,5 +4,5 @@
 junit 4.12等等
 
 作者： 王子鹏 
-链接：http://www.imooc.com/article/19422
+教程链接：http://www.imooc.com/article/19422
 来源：慕课网
